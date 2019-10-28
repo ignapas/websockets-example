@@ -2,7 +2,7 @@
 
 ## Client
 Client is a Vuejs single page application using the Element library.
-To compile the client and made it available to the server, run:
+To compile the client and make it available to the server, run:
 ```
 cd client
 npm run build
