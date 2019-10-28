@@ -4,6 +4,7 @@ import socketio
 from api.handlers.handlers import index_handler
 from api.handlers.websockets import sio
 
+
 app = web.Application()
 sio.attach(app)
 
